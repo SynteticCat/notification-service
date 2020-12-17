@@ -1,3 +1,23 @@
+# Выполненные задачи:
+1. Перенос кода в этот репозиторий (2 часа)
+2. Ресерч по typescript
+3. Добавление компоненты Message
+4. Ресерч storybook
+5. Добавление сторибука для Message
+6. Ресерч storybook-knobs
+7. Добавление knobs для Message
+8. Ресерч react-redux
+9. Ресерч redux
+10. Добавление компоненты MessageContainer
+
+# Отложенные задачи (для оригинального репозитория):
+1. попытка завести сторибук
+2. попытка запушить в репу
+3. попытка пройти аутентификацию при запуске
+
+# В процессе:
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
